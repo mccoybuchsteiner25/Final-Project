@@ -2,7 +2,7 @@
 --  Final Project
 ----------------------------------------------------------------------------
 --  ENGS 128 Spring 2025
---	Author: McCoy Buchsteiner
+--	Author: McCoy Buchsteiner & Nick Hepburn
 ----------------------------------------------------------------------------
 --	Description: Top-level file for audio codec tone generator and data passthrough 
 ----------------------------------------------------------------------------
